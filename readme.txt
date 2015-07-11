@@ -29,13 +29,13 @@ You're done!
 
 == Screenshots ==
 
-Add New Section
+1. Add New Section
 
-Add New Field
+2. Add New Field
 
-Just add the above code snippet in your template
+3. Just add the above code snippet in your template
 
-Use the following screenshot to call in WordPress Editor
+4. Use the following screenshot to call in WordPress Editor
 
 == Changelog ==
 
