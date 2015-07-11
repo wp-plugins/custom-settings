@@ -26,6 +26,17 @@ Upload the WordPress Custom Settings plugin to your blog, Activate it, and use i
 
 You're done!
 
+
+== Screenshots ==
+
+1. Add New Section
+
+2. Add New Field
+
+3. Just add the above code snippet in your template
+
+4. Use the following screenshot to call in WordPress Editor
+
 == Changelog ==
 
 = 1.0.0 =
