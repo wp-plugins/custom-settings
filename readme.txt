@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 3.0.4
 License: GPLv2 or later
 
-WordPress Custom Settings enables you to save your custom settings like social media links some html block a small text line upload a logo and file etc easily.
+WordPress Custom Settings enables to save your custom settings like social media links some html block , text line upload, logo and file easily.
 
 == Description ==
 
