@@ -40,7 +40,7 @@ You're done!
 == Changelog ==
 
 = 1.0.0 =
-*Release Date - 3rd June, 2009*
+*Release Date - 11 July, 2015
 
 * Release first build
 
