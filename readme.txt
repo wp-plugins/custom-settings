@@ -35,7 +35,7 @@ You're done!
 
 2. Add New Field
 
-3. Just add the above code snippet in your template
+3. Just add the above code snippet in your template (Add your field slug in place of $options)
 
 4. Use the following screenshot to call in WordPress Editor
 
