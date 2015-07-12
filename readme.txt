@@ -14,7 +14,7 @@ WordPress Custom Settings enables you to save your custom settings like social m
 
 To minimal use of widgets it gives you a options to create sections for categorization of your fields you can edit delete your sections also give you a interface to add multiple fields and manage them.you can call all the fields using shortcode as well.
 
-[https://github.com/honeydhi/WordPress-Theme-Settings/issues](Support WPC on GitHub "Support WPC on GitHub") your support is valuable.
+[Support WPC on GitHub](https://github.com/honeydhi/WordPress-Theme-Settings/issues "Support WPC on GitHub") your support is valuable.
  
 
 Major features in WordPress Custom Settings include:
